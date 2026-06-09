@@ -2,6 +2,7 @@
 
 A full-stack personal finance dashboard that connects to your bank accounts via **Plaid**, auto-tags your transactions using ML-based categorization, and visualizes your spending with interactive **Recharts** charts — all powered by a **Django** REST backend.
 
+
 ---
 
 ##  Features
